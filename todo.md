@@ -69,3 +69,5 @@
 - [ ] Repetir o build iOS em nuvem para gerar a IPA
 - [x] Vincular o projeto ao EAS usando o projectId `82e285d9-9e2f-4027-9d15-6cd6841339de`
 - [ ] Repetir o build iOS após gravar `eas.projectId`
+- [x] Resolver permissão de escrita da integração GitHub para publicar o projeto
+- [x] Publicar o projeto e o workflow no repositório `Notificacao-iOS`
